@@ -2,7 +2,7 @@
 set -euo pipefail
 
 ACTION="install"
-REPO_URL="${THS_REPO_URL:-https://github.com/the-hormozi-skill/the-hormozi-skill.git}"
+REPO_URL="${THS_REPO_URL:-https://github.com/thehormoziskill/the-hormozi-skill.git}"
 SKILL_NAME="the-hormozi-skill"
 CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
 DEST="$CODEX_HOME/skills/$SKILL_NAME"

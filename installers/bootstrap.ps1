@@ -7,7 +7,7 @@
 $ErrorActionPreference = 'Stop'
 
 if ([string]::IsNullOrWhiteSpace($Repo)) {
-  $Repo = 'https://github.com/the-hormozi-skill/the-hormozi-skill.git'
+  $Repo = 'https://github.com/thehormoziskill/the-hormozi-skill.git'
 }
 
 $skillName = 'the-hormozi-skill'
