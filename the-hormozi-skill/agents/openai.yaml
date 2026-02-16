@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "The Hormozi Skill"
+  short_description: "Autonomous profitability + implementation skill"
+  icon_small: "./assets/the-hormozi-skill-icon-400.png"
+  icon_large: "./assets/the-hormozi-skill-icon-800.png"
+  brand_color: "#101A45"
+  default_prompt: "Use $the-hormozi-skill to diagnose profitability, rewrite offers in clear language, produce implementation-ready plans, and run browser validation with Playwright plus screenshot capture. Assume hosted Supabase-backed knowledge is already configured for end users, and only request extra credentials for advanced self-host mode."
